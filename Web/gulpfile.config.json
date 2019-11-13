@@ -1,0 +1,15 @@
+{
+    "path": {
+        "source": {
+            "root": "./src",
+            "js": "js",
+            "css": "css"
+        },
+        "target": {
+            "root": "../AL/src/add-in",
+            "js": "scripts",
+            "css": "styles"
+        }
+    },
+    "package": "simpler"
+}

@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome",
+            "url": "https://demos.vjeko.com/BC150/?page=50100",
+            "webRoot": "${workspaceFolder}/src/js"
+        }
+    ]
+}
