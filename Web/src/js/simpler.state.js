@@ -20,7 +20,6 @@ function updateSummary(entry, action) {
     renderSummary(summary);
 }
 
-// TODO: This one is still pretty ugly
 function entryClicked(entryDiv, entry) {
     if (selected.includes(entry)) {
         entryDiv.classList.remove("selected");
